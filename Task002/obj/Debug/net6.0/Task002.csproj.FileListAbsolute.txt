@@ -1,0 +1,15 @@
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\bin\Debug\net6.0\Task002.exe
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\bin\Debug\net6.0\Task002.deps.json
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\bin\Debug\net6.0\Task002.runtimeconfig.json
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\bin\Debug\net6.0\Task002.dll
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\bin\Debug\net6.0\Task002.pdb
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\Task002.csproj.AssemblyReference.cache
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\Task002.AssemblyInfoInputs.cache
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\Task002.AssemblyInfo.cs
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\Task002.csproj.CoreCompileInputs.cache
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\Task002.dll
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\refint\Task002.dll
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\Task002.pdb
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\Task002.genruntimeconfig.cache
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Seminar\Seminar_8\Task002\obj\Debug\net6.0\ref\Task002.dll
